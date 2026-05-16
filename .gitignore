@@ -7,3 +7,4 @@ env/
 venv/
 .streamlit/
 update_app.py
+google-cloud-cli-darwin-arm.tar.gz
