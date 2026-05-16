@@ -10,6 +10,8 @@
 - **🏆 Tier System**: Level up from "Casual Banter" to "Hall of Flame".
 - **💀 Forfeit Enforcement**: Loser's forfeit is tracked and highlighted at the end.
 
+- Live Url : https://rivalry-resolver-766923802801.asia-south1.run.app/
+
 ## 🛠️ Tech Stack
 - **Frontend**: [Streamlit](https://streamlit.io/)
 - **AI Core**: [Google Gemini 1.5 Flash](https://aistudio.google.com/)
